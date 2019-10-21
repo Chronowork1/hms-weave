@@ -17,11 +17,12 @@ const OurTeam = () => (
       Potter (Advisory Dean for the William Bosworth Castle Society) and Dr.
       Fidencio Saldaña (Dean for Students) are advisors for this mentorship
       initiative, which is endorsed by the Office of Student Affairs at Harvard
-      Medical School. In recognition of fostering innovation and sustainability 
-      in mentoring while building a culture of excellence in mentoring, Weave was 
-      awarded the 2019 Program Award for Culture of Excellence in Mentoring (PACEM)
-      at Harvard Medical School:{' '}
-      <LiteralLink href="https://mfdp.med.harvard.edu/awards/program-award-culture-excellence-mentoring" />.
+      Medical School. In recognition of fostering innovation and sustainability
+      in mentoring while building a culture of excellence in mentoring, Weave
+      was awarded the 2019 Program Award for Culture of Excellence in Mentoring
+      (PACEM) at Harvard Medical School:{' '}
+      <LiteralLink href="https://mfdp.med.harvard.edu/awards/program-award-culture-excellence-mentoring" />
+      .
     </p>
 
     <h2>How Was Weave Developed?</h2>
@@ -44,7 +45,7 @@ const OurTeam = () => (
 
     <h2>Does Weave Stand For Something?</h2>
     <p>
-      We named our mentorship platform {'Weave'} to symbolize the woven
+      We named our mentorship platform &apos;Weave&apos; to symbolize the woven
       tightness of a tapestry, where each thread is important to contributing to
       the beautiful image when they all come together. Similarly, community is
       enriched through the diversity of identities and experiences of
